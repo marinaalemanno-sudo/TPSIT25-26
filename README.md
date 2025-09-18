@@ -1,57 +1,48 @@
 # TPSIT25-26
 repository di TPSIT25-26
-TPSIT è un acronimo che sta per Tecnologie e Progettazione di Sistemi Informatici e Telecomunicazioni, ed è un indirizzo di studi che fa parte dell'Istituto Tecnico Industriale (ITI) in Italia, specificamente nella sezione che si occupa di Informatica e Telecomunicazioni.
+**TPSIT** è un acronimo che sta per **Tecnologie e Progettazione di Sistemi Informatici e Telecomunicazioni**, ed è un indirizzo di studi che fa parte dell'**Istituto Tecnico Industriale** (ITI) in Italia, specificamente nella sezione che si occupa di **Informatica e Telecomunicazioni**.
 
-Questo indirizzo fornisce una formazione approfondita in informatica, telecomunicazioni e sistemi elettronici, con un focus particolare sullo sviluppo e la progettazione di tecnologie legate all'informatica e alle comunicazioni. Gli studenti che seguono questo percorso imparano a gestire, progettare e mantenere sistemi informatici complessi, comprendendo anche gli aspetti legati alle reti e alle telecomunicazioni.
+Questo indirizzo fornisce una formazione approfondita in **informatica**, **telecomunicazioni** e **sistemi elettronici**, con un focus particolare sullo sviluppo e la progettazione di tecnologie legate all'informatica e alle comunicazioni. Gli studenti che seguono questo percorso imparano a gestire, progettare e mantenere sistemi informatici complessi, comprendendo anche gli aspetti legati alle reti e alle telecomunicazioni.
 
-Principali aree di studio in TPSIT:
+### Principali aree di studio in TPSIT:
 
-Informatica e Programmazione:
+1. **Informatica e Programmazione**:
 
-Linguaggi di programmazione (es. Java, C++, Python).
+   * Linguaggi di programmazione (es. Java, C++, Python).
+   * Gestione di database e sistemi operativi.
+   * Sviluppo di software e applicazioni.
 
-Gestione di database e sistemi operativi.
+2. **Reti e Telecomunicazioni**:
 
-Sviluppo di software e applicazioni.
+   * Progettazione e gestione di reti locali e globali (LAN, WAN).
+   * Tecnologie di trasmissione dati e protocolli di comunicazione (TCP/IP, HTTP, ecc.).
+   * Struttura e funzionamento delle reti telefoniche e di Internet.
 
-Reti e Telecomunicazioni:
+3. **Sistemi e Dispositivi Elettronici**:
 
-Progettazione e gestione di reti locali e globali (LAN, WAN).
+   * Studio di circuiti elettronici.
+   * Tecnologie hardware e software per dispositivi di telecomunicazione.
 
-Tecnologie di trasmissione dati e protocolli di comunicazione (TCP/IP, HTTP, ecc.).
+4. **Sicurezza Informatica**:
 
-Struttura e funzionamento delle reti telefoniche e di Internet.
+   * Protezione dei dati e della privacy.
+   * Tecniche di crittografia e difesa contro gli attacchi informatici.
 
-Sistemi e Dispositivi Elettronici:
+5. **Progettazione di Sistemi**:
 
-Studio di circuiti elettronici.
+   * Analisi e progettazione di sistemi informatici complessi.
+   * Studio di applicazioni pratiche di software e hardware in diversi ambiti industriali.
 
-Tecnologie hardware e software per dispositivi di telecomunicazione.
-
-Sicurezza Informatica:
-
-Protezione dei dati e della privacy.
-
-Tecniche di crittografia e difesa contro gli attacchi informatici.
-
-Progettazione di Sistemi:
-
-Analisi e progettazione di sistemi informatici complessi.
-
-Studio di applicazioni pratiche di software e hardware in diversi ambiti industriali.
-
-Obiettivi e sbocchi professionali:
+### Obiettivi e sbocchi professionali:
 
 L'indirizzo TPSIT prepara gli studenti ad affrontare diverse professioni nel campo dell'informatica e delle telecomunicazioni. Gli sbocchi professionali più comuni includono:
 
-Tecnici informatici e sistemisti.
+* **Tecnici informatici** e **sistemisti**.
+* **Sviluppatori di software**.
+* **Tecnici di rete**.
+* **Consulenti IT**.
+* **Specialisti in sicurezza informatica**.
 
-Sviluppatori di software.
+L'indirizzo TPSIT può anche essere il punto di partenza per proseguire gli studi in ambiti universitari legati a **Informatica**, **Ingegneria delle Telecomunicazioni**, **Cybersecurity** e **Ingegneria Elettronica**.
 
-Tecnici di rete.
-
-Consulenti IT.
-
-Specialisti in sicurezza informatica.
-
-L'indirizzo TPSIT può anche essere il punto di partenza per proseguire gli studi in ambiti universitari legati a Informatica, Ingegneria delle Telecomunicazioni, Cybersecurity e Ingegneria Elettronica.
+Se hai domande più specifiche su uno degli aspetti del programma, fammi sapere!
